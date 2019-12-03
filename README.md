@@ -2,6 +2,8 @@
 
 Air BnB Prediction Values Project (Python)
 
+## Background
+
 The year is 2016 and I had decided to sell my apartment in Hoboken New Jersey and move out to the suberbs to make room for my 
 expanding family. Trying to save on costs and maximize return, I decided to try to list and sell the apartment myself rather 
 than using a realtor. In my reasearch for what sale price to list my apartment, I learned it was best to use prices of similar 
